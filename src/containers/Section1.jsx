@@ -81,7 +81,7 @@ const Section1 = () => {
         />
 
         {/* Trees */}
-        <Hidden mdDown>
+        {/* <Hidden mdDown>
           <img
             src={TreesImage}
             style={{
@@ -92,7 +92,7 @@ const Section1 = () => {
               bottom: "13%",
             }}
           />
-        </Hidden>
+        </Hidden> */}
 
         {/* Cliff */}
         {/* <img

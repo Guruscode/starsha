@@ -22,7 +22,7 @@ const Home = () => {
 
       {/* Sections */}
       <Section1 />
-      <Section2 />
+      {/* <Section2 /> */}
       
       <Box sx={{ bgcolor: "background.default", position: "relative" }}>
         <Section4 />
