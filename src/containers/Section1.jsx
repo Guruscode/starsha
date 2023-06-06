@@ -95,7 +95,7 @@ const Section1 = () => {
         </Hidden>
 
         {/* Cliff */}
-        <img
+        {/* <img
           src={CliffImage}
           style={{
             height: "100%",
@@ -104,10 +104,10 @@ const Section1 = () => {
             top: 0,
             backgroundSize: "cover",
           }}
-        />
+        /> */}
 
         {/* Horse */}
-        <img
+        {/* <img
           src={HorseImage}
           style={{
             position: "absolute",
@@ -116,8 +116,27 @@ const Section1 = () => {
             bottom: "45%",
             transform: "rotate(7deg)",
           }}
+        /> */}
+             {/* Star */}
+        <img
+          src={ShootingStarImage}
+          style={{
+            position: "absolute",
+            top: "20px",
+            right: "95%",
+            width: "500px",
+          }}
         />
-         
+            {/* Star */}
+        <img
+          src={ShootingStarImage}
+          style={{
+            position: "absolute",
+            top: "80px",
+            right: "45%",
+            width: "500px",
+          }}
+        />
 
         <Box
           sx={{
