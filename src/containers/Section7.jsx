@@ -13,21 +13,9 @@ const Section7 = () => {
         {title}
       </Title>
 
-      <Typography
-        variant="body2"
-        color="text.secondary"
-        sx={{ mb: { xs: 5, md: 8 } }}
-      >
-        {subtitle}
-      </Typography>
+      
 
-      <Grid container spacing={3}>
-        {ITEMS.map((item) => (
-          <Grid item xs={12} md={6} key={item.title}>
-            <ServiceCard {...item} />
-          </Grid>
-        ))}
-      </Grid>
+      
     </Container>
   );
 };

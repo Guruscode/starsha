@@ -29,6 +29,7 @@ const Home = () => {
         <Section9 />
         <Section5 />
          <Section8 />
+       <Section3 />
 
 
 
@@ -37,9 +38,9 @@ const Home = () => {
         <Section10 />
         <Section11 />
 
-           <Section3 />
+          
             <Section6 /> */}
-        {/* <Section7 /> */}
+        {/* */}
 
         {/* Footer */}
         <Footer />

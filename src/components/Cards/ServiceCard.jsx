@@ -26,7 +26,7 @@ const ServiceCard = ({ title, subtitle, image }) => {
       }}
     >
       <Stack sx={{ height: "100%" }} spacing={1}>
-        {/* <Title variant={{ xs: "h5", sm: "h4" }}>{title}</Title> */}
+        <Title variant={{ xs: "h5", sm: "h4" }}>{title}</Title>
 
         <Typography variant="body2" color="text.secondary">
           {subtitle}

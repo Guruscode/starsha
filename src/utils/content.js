@@ -348,39 +348,36 @@ export const footerContent = {
   protocols: {
     title: "Protocols",
     links: [
-      { title: "Liquidity Protocol" },
-      { title: "Aggregation Protocol" },
-      { title: "Limit Order Protocol" },
+      { title: "Stasha Ecosystem is a paradigm shifting blockchain infrastructure and solutions providing firm which aims to drive the adoption of blockchain technology." },
+    
     ],
   },
   governance: {
-    title: "Governance",
+    title: "Company",
     links: [
-      { title: "1inch DAO" },
-      { title: "1INCH token" },
-      { title: "Forum" },
+      { title: "About us" },
+      { title: "Team Members" },
+      { title: "Tokenomics" },
     ],
   },
   support: {
-    title: "Support",
+    title: "Useful Links",
     links: [
       { title: "Help center" },
-      { title: "Press room" },
-      { title: "Bug report", subtitle: "by Hacker one" },
-      { title: "Contacts" },
+      { title: "Token Sale" },
+      { title: "Contact Us" },
     ],
   },
   developers: {
-    title: "Governance",
+    title: "Contact us",
     links: [
-      { title: "Documentation" },
-      { title: "GitHub" },
-      { title: "Audit" },
-      { title: "Bug bounty" },
+      { title: "2030 Proctor Dr Grand Prairie TX 75051 United States" },
+      { title: "hello@stasha.io" },
+      { title: "+1 (443) 837-9644" },
     ],
   },
   subscribe: {
-    title: "Subscribe to 1inch newsletter",
+    title: "Subscribe to Our Newsletter",
     subtitle: "Get the latest news and updates",
   },
   socials: [
@@ -392,9 +389,9 @@ export const footerContent = {
     { icon: GitHubIcon },
   ],
   copyright: {
-    left: "© 2023 1inch, All Rights Reserved.",
-    center: "ENS: 1inch.eth",
-    right: "BUIDL @ETHNewYork 2019",
+    left: "© Copyright 2023 Stasha All Rights Reserved.",
+    center: "ENS: Starsha.eth",
+    right: "BUIDL @ETHNewYork 2023",
   },
 };
 
